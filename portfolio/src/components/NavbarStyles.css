@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.nav-menu{
+    display: flex;
+}
+.nav-menu li{
+    list-style: none;
+    padding: 0 1rem;
+}
+.nav-menu li a{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 1040px) {
+   
+  }
